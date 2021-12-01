@@ -12,7 +12,7 @@ pagamento (PSP) pode não implementar todos eles.
 ### Instalação
 
 ```phpt
-composer require elemke/sicoob-pix
+composer require rodolfovmartins/sicoob-pix
 ```
 
 ### Configurações Iniciais
